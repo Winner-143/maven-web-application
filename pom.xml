@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.122.254:8081/repository/winner2/</url>
+	      <url>http://13.233.122.254:8081/repository/RELEASE/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
